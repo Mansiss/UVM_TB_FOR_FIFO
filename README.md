@@ -1,4 +1,6 @@
 # UVM_TB_FOR_FIFO
 
 output_waveform
-![image]("C:\Users\mansi\OneDrive\Desktop\december\UDEMY\project_1\FIFO_output.png")
+
+
+![FIFO_output](https://user-images.githubusercontent.com/100235259/185215443-403f2b03-8d84-4828-9bfc-ea61ab798e6c.png)
